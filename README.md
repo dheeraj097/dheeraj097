@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dheeraj097
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dheeraj Dagar
+- 👀 I’m interested in building things for the web.
+- 🌱 I’m currently learning javascript ecosystem.
+- 💞️ I’m looking to collaborate on react.js libraries.
+- 📫 How to reach me: Email me at dheerajdagar94@gmail.com.
 
 <!---
 dheeraj097/dheeraj097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
